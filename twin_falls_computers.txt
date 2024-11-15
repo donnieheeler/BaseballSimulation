@@ -1,0 +1,386 @@
+Twin Falls Computers
+
+Frankie Miles - Catcher
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.231,6,50,0.255,2,5
+Batting Stats:
+BA: 0.231
+HR: 6
+RBIs: 50
+OBP: 0.255
+SPD: 2
+CON: 5
+
+Fielding Stats Code: 0.963,3,4,5
+Fielding Stats:
+FLD%: 0.963
+RNG: 3
+ARM: 4
+FCON: 5
+
+Pitching Stats Code: 4.563,4.697,3.576,3,5,3
+Pitching Stats:
+ERA: 4.563
+K/9: 4.697
+BB/9: 3.576
+CTRL: 3
+STM: 5
+POW: 3
+
+Jimmy Walters - First Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.206,7,47,0.283,5,4
+Batting Stats:
+BA: 0.206
+HR: 7
+RBIs: 47
+OBP: 0.283
+SPD: 5
+CON: 4
+
+Fielding Stats Code: 0.96,4,3,5
+Fielding Stats:
+FLD%: 0.96
+RNG: 4
+ARM: 3
+FCON: 5
+
+Pitching Stats Code: 5.358,5.65,3.988,5,4,3
+Pitching Stats:
+ERA: 5.358
+K/9: 5.65
+BB/9: 3.988
+CTRL: 5
+STM: 4
+POW: 3
+
+Billie Kemp - Second Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.211,6,21,0.29,4,2
+Batting Stats:
+BA: 0.211
+HR: 6
+RBIs: 21
+OBP: 0.29
+SPD: 4
+CON: 2
+
+Fielding Stats Code: 0.967,3,3,3
+Fielding Stats:
+FLD%: 0.967
+RNG: 3
+ARM: 3
+FCON: 3
+
+Pitching Stats Code: 5.187,5.695,3.848,5,5,4
+Pitching Stats:
+ERA: 5.187
+K/9: 5.695
+BB/9: 3.848
+CTRL: 5
+STM: 5
+POW: 4
+
+Louie Carter - Third Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.211,7,34,0.276,4,5
+Batting Stats:
+BA: 0.211
+HR: 7
+RBIs: 34
+OBP: 0.276
+SPD: 4
+CON: 5
+
+Fielding Stats Code: 0.953,4,5,4
+Fielding Stats:
+FLD%: 0.953
+RNG: 4
+ARM: 5
+FCON: 4
+
+Pitching Stats Code: 5.224,5.102,4.107,2,4,5
+Pitching Stats:
+ERA: 5.224
+K/9: 5.102
+BB/9: 4.107
+CTRL: 2
+STM: 4
+POW: 5
+
+Danny Rivers - Shortstop
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.203,7,22,0.298,4,5
+Batting Stats:
+BA: 0.203
+HR: 7
+RBIs: 22
+OBP: 0.298
+SPD: 4
+CON: 5
+
+Fielding Stats Code: 0.952,4,5,4
+Fielding Stats:
+FLD%: 0.952
+RNG: 4
+ARM: 5
+FCON: 4
+
+Pitching Stats Code: 5.249,4.892,4.102,3,4,5
+Pitching Stats:
+ERA: 5.249
+K/9: 4.892
+BB/9: 4.102
+CTRL: 3
+STM: 4
+POW: 5
+
+Pete Donovan - Left Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.206,12,41,0.261,2,3
+Batting Stats:
+BA: 0.206
+HR: 12
+RBIs: 41
+OBP: 0.261
+SPD: 2
+CON: 3
+
+Fielding Stats Code: 0.959,4,4,5
+Fielding Stats:
+FLD%: 0.959
+RNG: 4
+ARM: 4
+FCON: 5
+
+Pitching Stats Code: 4.992,5.519,3.824,4,3,5
+Pitching Stats:
+ERA: 4.992
+K/9: 5.519
+BB/9: 3.824
+CTRL: 4
+STM: 3
+POW: 5
+
+Tommy Grant - Center Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.208,9,24,0.29,5,3
+Batting Stats:
+BA: 0.208
+HR: 9
+RBIs: 24
+OBP: 0.29
+SPD: 5
+CON: 3
+
+Fielding Stats Code: 0.956,3,5,3
+Fielding Stats:
+FLD%: 0.956
+RNG: 3
+ARM: 5
+FCON: 3
+
+Pitching Stats Code: 4.726,5.456,4.497,4,5,5
+Pitching Stats:
+ERA: 4.726
+K/9: 5.456
+BB/9: 4.497
+CTRL: 4
+STM: 5
+POW: 5
+
+Al Simmons - Right Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.224,6,31,0.265,3,4
+Batting Stats:
+BA: 0.224
+HR: 6
+RBIs: 31
+OBP: 0.265
+SPD: 3
+CON: 4
+
+Fielding Stats Code: 0.951,3,4,4
+Fielding Stats:
+FLD%: 0.951
+RNG: 3
+ARM: 4
+FCON: 4
+
+Pitching Stats Code: 5.418,4.953,4.014,4,4,3
+Pitching Stats:
+ERA: 5.418
+K/9: 4.953
+BB/9: 4.014
+CTRL: 4
+STM: 4
+POW: 3
+
+Johnny Evans - Designated Hitter
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.223,7,36,0.256,2,2
+Batting Stats:
+BA: 0.223
+HR: 7
+RBIs: 36
+OBP: 0.256
+SPD: 2
+CON: 2
+
+Fielding Stats Code: 0.968,4,4,3
+Fielding Stats:
+FLD%: 0.968
+RNG: 4
+ARM: 4
+FCON: 3
+
+Pitching Stats Code: 5.382,5.219,3.595,5,3,4
+Pitching Stats:
+ERA: 5.382
+K/9: 5.219
+BB/9: 3.595
+CTRL: 5
+STM: 3
+POW: 4
+
+Charlie Monroe - Backup Infielder
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.224,10,48,0.281,4,5
+Batting Stats:
+BA: 0.224
+HR: 10
+RBIs: 48
+OBP: 0.281
+SPD: 4
+CON: 5
+
+Fielding Stats Code: 0.962,3,4,4
+Fielding Stats:
+FLD%: 0.962
+RNG: 3
+ARM: 4
+FCON: 4
+
+Pitching Stats Code: 4.756,5.143,4.234,4,5,5
+Pitching Stats:
+ERA: 4.756
+K/9: 5.143
+BB/9: 4.234
+CTRL: 4
+STM: 5
+POW: 5
+
+Roy Parnell - Backup Outfielder
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.224,11,39,0.294,5,5
+Batting Stats:
+BA: 0.224
+HR: 11
+RBIs: 39
+OBP: 0.294
+SPD: 5
+CON: 5
+
+Fielding Stats Code: 0.955,5,5,5
+Fielding Stats:
+FLD%: 0.955
+RNG: 5
+ARM: 5
+FCON: 5
+
+Pitching Stats Code: 4.923,5.024,3.737,2,3,3
+Pitching Stats:
+ERA: 4.923
+K/9: 5.024
+BB/9: 3.737
+CTRL: 2
+STM: 3
+POW: 3
+
+Doc Martin - Starting PitcherPlayer Level 2 (Fair)
+
+Batting Stats Code: 0.236,5,30,0.287,5,2
+Batting Stats:
+BA: 0.236
+HR: 5
+RBIs: 30
+OBP: 0.287
+SPD: 5
+CON: 2
+
+Fielding Stats Code: 0.952,4,5,4
+Fielding Stats:
+FLD%: 0.952
+RNG: 4
+ARM: 5
+FCON: 4
+
+Pitching Stats Code: 5.168,5.57,4.434,2,4,3
+Pitching Stats:
+ERA: 5.168
+K/9: 5.57
+BB/9: 4.434
+CTRL: 2
+STM: 4
+POW: 3
+
+Joe Blackwell - Relief Pitcher
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.213,9,34,0.259,2,3
+Batting Stats:
+BA: 0.213
+HR: 9
+RBIs: 34
+OBP: 0.259
+SPD: 2
+CON: 3
+
+Fielding Stats Code: 0.951,3,3,4
+Fielding Stats:
+FLD%: 0.951
+RNG: 3
+ARM: 3
+FCON: 4
+
+Pitching Stats Code: 4.788,4.648,3.612,3,3,5
+Pitching Stats:
+ERA: 4.788
+K/9: 4.648
+BB/9: 3.612
+CTRL: 3
+STM: 3
+POW: 5
+
+Roster:
+
+1. Frankie Miles - Catcher: 0.231,6,50,0.255,2,5
+2. Jimmy Walters - First Base: 0.206,7,47,0.283,5,4
+3. Billie Kemp - Second Base: 0.211,6,21,0.29,4,2
+4. Louie Carter - Third Base: 0.211,7,34,0.276,4,5
+5. Danny Rivers - Shortstop: 0.203,7,22,0.298,4,5
+6. Pete Donovan - Left Field: 0.206,12,41,0.261,2,3
+7. Tommy Grant - Center Field: 0.208,9,24,0.29,5,3
+8. Al Simmons - Right Field: 0.224,6,31,0.265,3,4
+9. Johnny Evans - Designated Hitter: 0.223,7,36,0.256,2,2
+
+Bench: 
+10. Charlie Monroe - Backup Infielder: 0.225,6,34,0.260,4,3 
+11. Roy Parnell - Backup Outfielder: 0.212,8,31,0.272,3,4 
+
+Pitchers: 
+12. Doc Martin - Starting Pitcher: 0.205,5,29,0.266,2,3 
+13. Joe Blackwell - Relief Pitcher: 0.213,4,27,0.259,3,2 
+
+Lineup Code: 0.231,6,50,0.255,2,5;0.206,7,47,0.283,5,4;0.211,6,21,0.29,4,2;0.211,7,34,0.276,4,5;0.203,7,22,0.298,4,5;0.206,12,41,0.261,2,3;0.208,9,24,0.29,5,3;0.224,6,31,0.265,3,4;0.223,7,36,0.256,2,2

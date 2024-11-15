@@ -1,0 +1,384 @@
+Los Angeles Butchers
+
+Alex Turner - Catcher
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.233,5,38,0.259,5,2
+Batting Stats:
+BA: 0.233
+HR: 5
+RBIs: 38
+OBP: 0.259
+SPD: 5
+CON: 2
+
+Fielding Stats Code: 0.957,5,4,4
+Fielding Stats:
+FLD%: 0.957
+RNG: 5
+ARM: 4
+FCON: 4
+
+Pitching Stats Code: 4.797,5.957,4.163,4,2,4
+Pitching Stats:
+ERA: 4.797
+K/9: 5.957
+BB/9: 4.163
+CTRL: 4
+STM: 2
+POW: 4
+
+Sam Harper - First Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.212,6,45,0.276,2,4
+Batting Stats:
+BA: 0.212
+HR: 6
+RBIs: 45
+OBP: 0.276
+SPD: 2
+CON: 4
+
+Fielding Stats Code: 0.958,3,5,3
+Fielding Stats:
+FLD%: 0.958
+RNG: 3
+ARM: 5
+FCON: 3
+
+Pitching Stats Code: 5.384,5.962,3.808,4,3,3
+Pitching Stats:
+ERA: 5.384
+K/9: 5.962
+BB/9: 3.808
+CTRL: 4
+STM: 3
+POW: 3
+
+Jordan Blake - Second Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.213,5,45,0.287,4,5
+Batting Stats:
+BA: 0.213
+HR: 5
+RBIs: 45
+OBP: 0.287
+SPD: 4
+CON: 5
+
+Fielding Stats Code: 0.955,3,5,4
+Fielding Stats:
+FLD%: 0.955
+RNG: 3
+ARM: 5
+FCON: 4
+
+Pitching Stats Code: 5.457,5.211,3.678,5,3,3
+Pitching Stats:
+ERA: 5.457
+K/9: 5.211
+BB/9: 3.678
+CTRL: 5
+STM: 3
+POW: 3
+
+Chris Nolan - Third Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.226,11,31,0.273,5,5
+Batting Stats:
+BA: 0.226
+HR: 11
+RBIs: 31
+OBP: 0.273
+SPD: 5
+CON: 5
+
+Fielding Stats Code: 0.96,3,5,3
+Fielding Stats:
+FLD%: 0.96
+RNG: 3
+ARM: 5
+FCON: 3
+
+Pitching Stats Code: 5.361,5.496,3.751,2,4,2
+Pitching Stats:
+ERA: 5.361
+K/9: 5.496
+BB/9: 3.751
+CTRL: 2
+STM: 4
+POW: 2
+
+Max Bennett - Shortstop
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.218,8,44,0.274,3,4
+Batting Stats:
+BA: 0.218
+HR: 8
+RBIs: 44
+OBP: 0.274
+SPD: 3
+CON: 4
+
+Fielding Stats Code: 0.951,4,3,3
+Fielding Stats:
+FLD%: 0.951
+RNG: 4
+ARM: 3
+FCON: 3
+
+Pitching Stats Code: 4.922,5.021,3.667,2,3,2
+Pitching Stats:
+ERA: 4.922
+K/9: 5.021
+BB/9: 3.667
+CTRL: 2
+STM: 3
+POW: 2
+
+Ryan Cooper - Left Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.214,7,49,0.273,2,5
+Batting Stats:
+BA: 0.214
+HR: 7
+RBIs: 49
+OBP: 0.273
+SPD: 2
+CON: 5
+
+Fielding Stats Code: 0.953,4,4,4
+Fielding Stats:
+FLD%: 0.953
+RNG: 4
+ARM: 4
+FCON: 4
+
+Pitching Stats Code: 5.207,4.23,3.594,2,3,4
+Pitching Stats:
+ERA: 5.207
+K/9: 4.23
+BB/9: 3.594
+CTRL: 2
+STM: 3
+POW: 4
+
+Tyler Brooks - Center Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.213,11,33,0.274,2,3
+Batting Stats:
+BA: 0.213
+HR: 11
+RBIs: 33
+OBP: 0.274
+SPD: 2
+CON: 3
+
+Fielding Stats Code: 0.951,3,5,3
+Fielding Stats:
+FLD%: 0.951
+RNG: 3
+ARM: 5
+FCON: 3
+
+Pitching Stats Code: 4.907,4.552,3.907,5,4,2
+Pitching Stats:
+ERA: 4.907
+K/9: 4.552
+BB/9: 3.907
+CTRL: 5
+STM: 4
+POW: 2
+
+Evan Scott - Right Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.239,12,20,0.298,5,4
+Batting Stats:
+BA: 0.239
+HR: 12
+RBIs: 20
+OBP: 0.298
+SPD: 5
+CON: 4
+
+Fielding Stats Code: 0.953,4,3,5
+Fielding Stats:
+FLD%: 0.953
+RNG: 4
+ARM: 3
+FCON: 5
+
+Pitching Stats Code: 4.834,4.018,4.053,2,5,3
+Pitching Stats:
+ERA: 4.834
+K/9: 4.018
+BB/9: 4.053
+CTRL: 2
+STM: 5
+POW: 3
+
+Jack Mitchell - Designated Hitter
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.223,11,27,0.294,5,5
+Batting Stats:
+BA: 0.223
+HR: 11
+RBIs: 27
+OBP: 0.294
+SPD: 5
+CON: 5
+
+Fielding Stats Code: 0.961,3,4,4
+Fielding Stats:
+FLD%: 0.961
+RNG: 3
+ARM: 4
+FCON: 4
+
+Pitching Stats Code: 5.003,4.38,4.142,3,4,5
+Pitching Stats:
+ERA: 5.003
+K/9: 4.38
+BB/9: 4.142
+CTRL: 3
+STM: 4
+POW: 5
+
+Ben Foster - Backup Infielder
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.228,7,20,0.258,4,2
+Batting Stats:
+BA: 0.228
+HR: 7
+RBIs: 20
+OBP: 0.258
+SPD: 4
+CON: 2
+
+Fielding Stats Code: 0.968,4,3,4
+Fielding Stats:
+FLD%: 0.968
+RNG: 4
+ARM: 3
+FCON: 4
+
+Pitching Stats Code: 4.507,4.346,3.949,4,4,5
+Pitching Stats:
+ERA: 4.507
+K/9: 4.346
+BB/9: 3.949
+CTRL: 4
+STM: 4
+POW: 5
+
+Luke Adams - Backup Outfielder
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.213,11,44,0.282,3,3
+Batting Stats:
+BA: 0.213
+HR: 11
+RBIs: 44
+OBP: 0.282
+SPD: 3
+CON: 3
+
+Fielding Stats Code: 0.963,4,3,3
+Fielding Stats:
+FLD%: 0.963
+RNG: 4
+ARM: 3
+FCON: 3
+
+Pitching Stats Code: 5.448,4.695,3.849,4,4,5
+Pitching Stats:
+ERA: 5.448
+K/9: 4.695
+BB/9: 3.849
+CTRL: 4
+STM: 4
+POW: 5
+
+Matt Davis - Starting Pitcher
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.201,6,22,0.272,3,2
+Batting Stats:
+BA: 0.201
+HR: 6
+RBIs: 22
+OBP: 0.272
+SPD: 3
+CON: 2
+
+Fielding Stats Code: 0.965,5,5,5
+Fielding Stats:
+FLD%: 0.965
+RNG: 5
+ARM: 5
+FCON: 5
+
+Pitching Stats Code: 4.825,4.702,4.297,2,4,3
+Pitching Stats:
+ERA: 4.825
+K/9: 4.702
+BB/9: 4.297
+CTRL: 2
+STM: 4
+POW: 3
+
+Jake Thompson - Relief Pitcher
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.234,11,35,0.265,2,4
+Batting Stats:
+BA: 0.234
+HR: 11
+RBIs: 35
+OBP: 0.265
+SPD: 2
+CON: 4
+
+Fielding Stats Code: 0.967,5,3,5
+Fielding Stats:
+FLD%: 0.967
+RNG: 5
+ARM: 3
+FCON: 5
+
+Pitching Stats Code: 5.306,5.282,3.559,3,3,4
+Pitching Stats:
+ERA: 5.306
+K/9: 5.282
+BB/9: 3.559
+CTRL: 3
+STM: 3
+POW: 4
+
+Roster:
+
+Alex Turner - Catcher: 0.233,5,38,0.259,5,2
+Sam Harper - First Base: 0.212,6,45,0.276,2,4
+Jordan Blake - Second Base: 0.213,5,45,0.287,4,5
+Chris Nolan - Third Base: 0.226,11,31,0.273,5,5
+Max Bennett - Shortstop: 0.218,8,44,0.274,3,4
+Ryan Cooper - Left Field: 0.214,7,49,0.273,2,5
+Tyler Brooks - Center Field: 0.213,11,33,0.274,2,3
+Evan Scott - Right Field: 0.239,12,20,0.298,5,4
+Jack Mitchell - Designated Hitter: 0.223,11,27,0.294,5,5
+
+Ben Foster - Backup Infielder: 0.228,7,20,0.258,4,2
+Luke Adams - Backup Outfielder: 0.213,11,44,0.282,3,3
+Matt Davis - Starting Pitcher: 0.201,6,22,0.272,3,2
+Jake Thompson - Relief Pitcher: 0.234,11,35,0.265,2,4
+
+Lineup Code: 0.233,5,38,0.259,5,2;0.212,6,45,0.276,2,4;0.213,5,45,0.287,4,5;0.226,11,31,0.273,5,5;0.218,8,44,0.274,3,4;0.214,7,49,0.273,2,5;0.213,11,33,0.274,2,3;0.239,12,20,0.298,5,4;0.223,11,27,0.294,5,5;0.228,7,20,0.258,4,2;0.213,11,44,0.282,3,3;0.201,6,22,0.272,3,2;0.234,11,35,0.265,2,4

@@ -1,0 +1,379 @@
+Philadelphia Rats
+
+Jackie McPhee - Catcher
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.221,8,40,0.267,5,2
+Batting Stats:
+BA: 0.221
+HR: 8
+RBIs: 40
+OBP: 0.267
+SPD: 5
+CON: 2
+
+Fielding Stats Code: 0.959,4,4,3
+Fielding Stats:
+FLD%: 0.959
+RNG: 4
+ARM: 4
+FCON: 3
+
+Pitching Stats Code: 5.198,5.676,3.831,5,5,5
+Pitching Stats:
+ERA: 5.198
+K/9: 5.676
+BB/9: 3.831
+CTRL: 5
+STM: 5
+POW: 5
+
+Walt Anderson - First Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.239,6,43,0.254,4,4
+Batting Stats:
+BA: 0.239
+HR: 6
+RBIs: 43
+OBP: 0.254
+SPD: 4
+CON: 4
+
+Fielding Stats Code: 0.966,3,5,5
+Fielding Stats:
+FLD%: 0.966
+RNG: 3
+ARM: 5
+FCON: 5
+
+Pitching Stats Code: 5.416,4.684,3.908,2,5,2
+Pitching Stats:
+ERA: 5.416
+K/9: 4.684
+BB/9: 3.908
+CTRL: 2
+STM: 5
+POW: 2
+
+Charlie Doyle - Second Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.215,8,26,0.298,2,5
+Batting Stats:
+BA: 0.215
+HR: 8
+RBIs: 26
+OBP: 0.298
+SPD: 2
+CON: 5
+
+Fielding Stats Code: 0.953,3,5,4
+Fielding Stats:
+FLD%: 0.953
+RNG: 3
+ARM: 5
+FCON: 4
+
+Pitching Stats Code: 4.859,5.94,4.305,4,3,5
+Pitching Stats:
+ERA: 4.859
+K/9: 5.94
+BB/9: 4.305
+CTRL: 4
+STM: 3
+POW: 5
+
+Mickey Bannon - Third Base
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.226,10,39,0.268,2,2
+Batting Stats:
+BA: 0.226
+HR: 10
+RBIs: 39
+OBP: 0.268
+SPD: 2
+CON: 2
+
+Fielding Stats Code: 0.95,5,5,3
+Fielding Stats:
+FLD%: 0.95
+RNG: 5
+ARM: 5
+FCON: 3
+
+Pitching Stats Code: 5.422,4.964,4.491,4,3,2
+Pitching Stats:
+ERA: 5.422
+K/9: 4.964
+BB/9: 4.491
+CTRL: 4
+STM: 3
+POW: 2
+
+Tommy Finch - Shortstop
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.214,10,39,0.282,4,4
+Batting Stats:
+BA: 0.214
+HR: 10
+RBIs: 39
+OBP: 0.282
+SPD: 4
+CON: 4
+
+Fielding Stats Code: 0.951,5,3,4
+Fielding Stats:
+FLD%: 0.951
+RNG: 5
+ARM: 3
+FCON: 4
+
+Pitching Stats Code: 5.286,5.765,4.051,4,2,3
+Pitching Stats:
+ERA: 5.286
+K/9: 5.765
+BB/9: 4.051
+CTRL: 4
+STM: 2
+POW: 3
+
+Sal Rosario - Left Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.221,11,44,0.256,4,3
+Batting Stats:
+BA: 0.221
+HR: 11
+RBIs: 44
+OBP: 0.256
+SPD: 4
+CON: 3
+
+Fielding Stats Code: 0.958,3,5,5
+Fielding Stats:
+FLD%: 0.958
+RNG: 3
+ARM: 5
+FCON: 5
+
+Pitching Stats Code: 5.4,5.652,3.603,5,2,2
+Pitching Stats:
+ERA: 5.4
+K/9: 5.652
+BB/9: 3.603
+CTRL: 5
+STM: 2
+POW: 2
+
+Billy O'Connell - Center Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.202,5,40,0.292,4,3
+Batting Stats:
+BA: 0.202
+HR: 5
+RBIs: 40
+OBP: 0.292
+SPD: 4
+CON: 3
+
+Fielding Stats Code: 0.953,5,5,3
+Fielding Stats:
+FLD%: 0.953
+RNG: 5
+ARM: 5
+FCON: 3
+
+Pitching Stats Code: 5.411,5.256,3.975,5,2,4
+Pitching Stats:
+ERA: 5.411
+K/9: 5.256
+BB/9: 3.975
+CTRL: 5
+STM: 2
+POW: 4
+
+Freddie Tate - Right Field
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.22,5,31,0.277,3,4
+Batting Stats:
+BA: 0.22
+HR: 5
+RBIs: 31
+OBP: 0.277
+SPD: 3
+CON: 4
+
+Fielding Stats Code: 0.961,3,3,5
+Fielding Stats:
+FLD%: 0.961
+RNG: 3
+ARM: 3
+FCON: 5
+
+Pitching Stats Code: 4.803,4.377,3.843,5,3,5
+Pitching Stats:
+ERA: 4.803
+K/9: 4.377
+BB/9: 3.843
+CTRL: 5
+STM: 3
+POW: 5
+
+Leo Hendricks - Designated Hitter
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.229,12,27,0.251,2,3
+Batting Stats:
+BA: 0.229
+HR: 12
+RBIs: 27
+OBP: 0.251
+SPD: 2
+CON: 3
+
+Fielding Stats Code: 0.963,3,5,4
+Fielding Stats:
+FLD%: 0.963
+RNG: 3
+ARM: 5
+FCON: 4
+
+Pitching Stats Code: 4.509,5.557,4.431,5,4,2
+Pitching Stats:
+ERA: 4.509
+K/9: 5.557
+BB/9: 4.431
+CTRL: 5
+STM: 4
+POW: 2
+
+Roy Ellis - Backup Infielder
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.207,7,49,0.296,4,5
+Batting Stats:
+BA: 0.207
+HR: 7
+RBIs: 49
+OBP: 0.296
+SPD: 4
+CON: 5
+
+Fielding Stats Code: 0.951,4,5,3
+Fielding Stats:
+FLD%: 0.951
+RNG: 4
+ARM: 5
+FCON: 3
+
+Pitching Stats Code: 4.517,4.546,3.653,3,3,4
+Pitching Stats:
+ERA: 4.517
+K/9: 4.546
+BB/9: 3.653
+CTRL: 3
+STM: 3
+POW: 4
+
+Gene Patterson - Backup Outfielder
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.235,9,22,0.274,3,4
+Batting Stats:
+BA: 0.235
+HR: 9
+RBIs: 22
+OBP: 0.274
+SPD: 3
+CON: 4
+
+Fielding Stats Code: 0.954,5,5,5
+Fielding Stats:
+FLD%: 0.954
+RNG: 5
+ARM: 5
+FCON: 5
+
+Pitching Stats Code: 4.552,4.753,3.621,2,4,4
+Pitching Stats:
+ERA: 4.552
+K/9: 4.753
+BB/9: 3.621
+CTRL: 2
+STM: 4
+POW: 4
+
+Ralph Sterling - Starting Pitcher
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.202,7,32,0.263,3,5
+Batting Stats:
+BA: 0.202
+HR: 7
+RBIs: 32
+OBP: 0.263
+SPD: 3
+CON: 5
+
+Fielding Stats Code: 0.955,5,5,4
+Fielding Stats:
+FLD%: 0.955
+RNG: 5
+ARM: 5
+FCON: 4
+
+Pitching Stats Code: 5.459,4.945,3.818,3,2,4
+Pitching Stats:
+ERA: 5.459
+K/9: 4.945
+BB/9: 3.818
+CTRL: 3
+STM: 2
+POW: 4
+
+Dan Mulligan - Relief Pitcher
+Player Level 2 (Fair)
+
+Batting Stats Code: 0.235,9,34,0.251,3,2
+Batting Stats:
+BA: 0.235
+HR: 9
+RBIs: 34
+OBP: 0.251
+SPD: 3
+CON: 2
+
+Fielding Stats Code: 0.957,3,3,3
+Fielding Stats:
+FLD%: 0.957
+RNG: 3
+ARM: 3
+FCON: 3
+
+Pitching Stats Code: 4.954,5.107,3.849,2,4,3
+Pitching Stats:
+ERA: 4.954
+K/9: 5.107
+BB/9: 3.849
+CTRL: 2
+STM: 4
+POW: 3
+
+Philadelphia Rats Lineup
+
+Jackie McPhee - Catcher: 0.221,8,40,0.267,5,2
+Walt Anderson - First Base: 0.239,6,43,0.254,4,4
+Charlie Doyle - Second Base: 0.215,8,26,0.298,2,5
+Mickey Bannon - Third Base: 0.226,10,39,0.268,2,2
+Tommy Finch - Shortstop: 0.214,10,39,0.282,4,4
+Sal Rosario - Left Field: 0.221,11,44,0.256,4,3
+Billy O'Connell - Center Field: 0.202,5,40,0.292,4,3
+Freddie Tate - Right Field: 0.22,5,31,0.277,3,4
+Leo Hendricks - Designated Hitter: 0.229,12,27,0.251,2,3
+Lineup Code:
+0.221,8,40,0.267,5,2;0.239,6,43,0.254,4,4;0.215,8,26,0.298,2,5;0.226,10,39,0.268,2,2;0.214,10,39,0.282,4,4;0.221,11,44,0.256,4,3;0.202,5,40,0.292,4,3;0.22,5,31,0.277,3,4;0.229,12,27,0.251,2,3
