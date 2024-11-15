@@ -1,45 +1,57 @@
 from utils import roll_d20
-from field import determine_fielder
+from field import determine_fielder, fielding_play
 
-def hit_type(batter_stats):
+def hit_type(batter_stats, players, current_team):
+    """
+    Determines the type of hit and returns the outcome along with the fielder involved.
+    
+    Parameters:
+        batter_stats (dict): Stats for the batter, including contact rating (CON).
+        players (dict): A dictionary of all players, used to determine fielders.
+        current_team (str): The team currently at bat.
+    
+    Returns:
+        tuple: The outcome of the hit (e.g., "Single", "Pop Fly") and the fielder dict.
+    """
     roll = roll_d20()
-    hr_mod = batter_stats["HR"] // 2
-    adjusted_roll = roll + hr_mod
+    contact_mod = batter_stats["CON"] // 2  # Use contact rating for adjustments
+    adjusted_roll = roll + contact_mod
 
-    if 1 <= adjusted_roll <= 7:
+    # Determine hit type based on adjusted roll
+    if 1 <= adjusted_roll <= 8:
         outcome = "Pop Fly"
-    elif 8 <= adjusted_roll <= 12:
+    elif 9 <= adjusted_roll <= 14:
         outcome = "Single"
-    elif 13 <= adjusted_roll <= 15:
+    elif 15 <= adjusted_roll <= 17:
         outcome = "Double"
-    elif 16 <= adjusted_roll <= 18:
+    elif 18 <= adjusted_roll <= 19:
         outcome = "Triple"
-    else:
-        # Require an additional roll for a home run if HR is low
-        if batter_stats["HR"] < 10:
-            confirmation_roll = roll_d20()
-            if confirmation_roll < 15:
-                outcome = "Triple"  # Downgrade home run to triple if confirmation fails
-            else:
-                outcome = "Home Run"
-        else:
+    elif adjusted_roll == 20:
+        # Home runs require confirmation even on a perfect roll
+        confirmation_roll = roll_d20()
+        if confirmation_roll >= 18:
             outcome = "Home Run"
+        else:
+            outcome = "Triple"
+    else:
+        outcome = "Pop Fly"  # Any rolls outside bounds default to a weak hit
 
     # Determine fielder position for added context
-    fielder = determine_fielder(debug=False)
+    fielder_position = determine_fielder(debug=False)
+    fielder_candidates = [
+        player for player in players.values() if player["Position"] == fielder_position and player["TeamID"] != current_team
+    ]
 
-    # Special messages for extreme rolls
-    special_message = ""
-    if roll == 1:
-        special_message = "The batter barely makes contact, and it’s a weak pop fly."
-    elif roll == 20:
-        special_message = "It’s a monster hit! The crowd goes wild."
+    # If no valid fielder is found, default to a random player on the opposing team
+    if not fielder_candidates:
+        fielder = None
+        print(f"No valid fielder found for position {fielder_position}. Defaulting to random player.")
+    else:
+        fielder = fielder_candidates[0]
 
-    # Detailed breakdown of hit type
+    # Debugging and feedback
     print(f"\nHit Type - Rolled D20: {roll}")
-    print(f"Batter's HR Modifier: +{hr_mod}")
+    print(f"Batter's Contact Modifier: +{contact_mod}")
     print(f"Adjusted Roll: {adjusted_roll} -> {outcome}")
-    if special_message:
-        print(special_message)
-    
+
     return outcome, fielder

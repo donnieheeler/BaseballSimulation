@@ -1,7 +1,9 @@
 from player_data import load_players
 from pitch import pitch_outcome
 from hit import hit_type
+from field import determine_fielder, fielding_play
 from game import Game
+import random
 
 def main():
     print("Welcome to the Baseball Dice Simulation!")
@@ -55,13 +57,12 @@ def main():
     # Main game loop
     while not game.is_game_over():
         game.display_score()
-        outs = 0
         lineup = lineup_team1 if game.current_team == team1 else lineup_team2
         pitcher_id = pitcher_team1 if game.current_team == team1 else pitcher_team2
 
         current_position = 0
 
-        while outs < 3:
+        while game.outs < 3:  # Use game.outs from the Game class
             batter_id = lineup[current_position]
             batter_stats = players[batter_id]
             print(f"\nNext At-Bat: {batter_stats['Name']} ({batter_stats['Position']})")
@@ -82,13 +83,32 @@ def main():
                 elif strikes >= 3:
                     print("The batter strikes out.")
                     game.update_game_csv(batter_id, "Strikeouts", 1)
-                    outs += 1
+                    game.outs += 1  # Increment outs for a strikeout
                     break
 
                 if outcome == "Contact":
-                    hit_outcome, fielder = hit_type(batter_stats)
-                    print(f"Hit Outcome: {hit_outcome} | Fielder: {fielder}")
-                    game.handle_hit(batter_id, hit_outcome)
+                    # Pass the additional arguments to hit_type
+                    hit_outcome, fielder = hit_type(batter_stats, players, game.current_team)
+                    print(f"Hit Outcome: {hit_outcome}")
+                    
+                    # Perform fielding play
+                    if fielder:
+                        fielder_stats = {
+                            "RNG": fielder["RNG"],
+                            "FCON": fielder["FCON"]
+                        }
+                        fielding_result = fielding_play(fielder_stats, hit_outcome)
+                        print(f"Fielding Result: {fielding_result} by {fielder['Name']} ({fielder['Position']})")
+
+                        # Increment outs if the play results in an out
+                        if fielding_result in ["Catch - Out", "Out or Extra Base Prevented"]:
+                            game.outs += 1
+                    else:
+                        fielding_result = "Safe - Base Reached"
+                        print("No valid fielder. Defaulting to safe play.")
+
+                    # Pass the result to the game logic
+                    game.handle_hit(batter_id, hit_outcome, fielding_result, fielder)
                     break
 
             current_position = (current_position + 1) % len(lineup)
